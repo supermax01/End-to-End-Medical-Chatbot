@@ -3,5 +3,5 @@ sentence-transformers==2.2.2 # to load the sentence transformers models (for the
 pinecone # to load the pinecone client (for the vector database)
 langchain==0.0.225 # to load the langchain client (for the chatbot)
 flask==3.0.2 # to load the flask client (for the web app)
-
+ipywidgets>=7.6.0 # to fix the IProgress warning in Jupyter notebooks
 
