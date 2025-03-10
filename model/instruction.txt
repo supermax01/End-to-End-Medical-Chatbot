@@ -1,0 +1,6 @@
+## Download the Llama 2 Model:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+## from the following link
+https://huggingface.co/TheBloke/llama-2-7b-Chat-GGML/tree/main
