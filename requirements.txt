@@ -1,0 +1,7 @@
+ctransformers==0.2.5 # to load the quantized models
+sentence-transformers==2.2.2 # to load the sentence transformers models (for the embeddings)
+pinecone-client # to load the pinecone client (for the vector database)
+langchain==0.0.225 # to load the langchain client (for the chatbot)
+flask==3.0.2 # to load the flask client (for the web app)
+
+
