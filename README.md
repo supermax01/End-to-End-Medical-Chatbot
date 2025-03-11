@@ -1,4 +1,4 @@
-# MediRAG: Local RAG System : Get Accurate medical answers from your trsuted documents locally
+# MediRAG: Local RAG System : Get Accurate medical answers from your trusted documents locally
 
 Created by [supermax01](https://github.com/supermax01)
 
