@@ -4,10 +4,9 @@ Created by [supermax01](https://github.com/supermax01)
 
 A specialized medical question-answering system that leverages large language models (LLMs) and retrieval-augmented generation (RAG) to provide accurate medical information based on trusted medical literature. This system runs entirely on your local machine, giving you full control over your data and privacy.
 
-
-Screenshot 2025-03-11 at 12.21.22 AM.png
-Screenshot 2025-03-11 at 12.22.01 AM.png
-Screenshot 2025-03-11 at 12.22.18 AM.png
+![Screenshot 1](Screenshot 2025-03-11 at 12.21.22 AM.png)
+![Screenshot 2](Screenshot 2025-03-11 at 12.22.01 AM.png)
+![Screenshot 3](Screenshot 2025-03-11 at 12.22.18 AM.png)
 
 ## Project Overview
 
