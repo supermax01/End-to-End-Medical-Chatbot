@@ -152,7 +152,8 @@ if "initialized" not in st.session_state:
 
 # Header section
 st.markdown('<div class="header-container">', unsafe_allow_html=True)
-st.title("Medical Chatbot")
+st.title("MediRAG")
+st.markdown("**Your trusted medical knowledge assistant powered by local documents and AI**")
 st.markdown("This chatbot answers medical questions based **only** on the uploaded medical PDF documents. The answers are limited to the information contained in these documents. Ask any medical question to get started.")
 st.markdown("<div style='font-size: 0.8rem; margin-top: 0.5rem;'>Created by <a href='https://github.com/supermax01' target='_blank'>supermax01</a> | <a href='https://github.com/supermax01/End-to-End-Medical-Chatbot' target='_blank'>GitHub Repository</a></div>", unsafe_allow_html=True)
 
