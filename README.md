@@ -4,9 +4,22 @@ Created by [supermax01](https://github.com/supermax01)
 
 A specialized medical question-answering system that leverages large language models (LLMs) and retrieval-augmented generation (RAG) to provide accurate medical information based on trusted medical literature. This system runs entirely on your local machine, giving you full control over your data and privacy.
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+## Screenshots
+
+<div align="center">
+  <img src="assets/images/Screenshot 2025-03-11 at 12.21.22 AM.png" alt="MediRAG Interface" width="800"/>
+  <p><em>MediRAG's clean and intuitive user interface</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/images/Screenshot 2025-03-11 at 12.22.01 AM.png" alt="MediRAG Question" width="800"/>
+  <p><em>Asking a medical question about diabetes medications</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/images/Screenshot 2025-03-11 at 12.22.18 AM.png" alt="MediRAG Answer" width="800"/>
+  <p><em>MediRAG providing a detailed answer with sources from the medical literature</em></p>
+</div>
 
 ## Project Overview
 
