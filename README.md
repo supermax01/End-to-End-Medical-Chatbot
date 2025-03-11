@@ -7,17 +7,17 @@ A specialized medical question-answering system that leverages large language mo
 ## Screenshots
 
 <div align="center">
-  <img src="assets/images/Screenshot 2025-03-11 at 12.21.22 AM.png" alt="MediRAG Interface" width="800"/>
+  <img src="assets/images/1.png" alt="MediRAG Interface" width="800"/>
   <p><em>MediRAG's clean and intuitive user interface</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/images/Screenshot 2025-03-11 at 12.22.01 AM.png" alt="MediRAG Question" width="800"/>
+  <img src="assets/images/2.png" alt="MediRAG Question" width="800"/>
   <p><em>Asking a medical question about diabetes medications</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/images/Screenshot 2025-03-11 at 12.22.18 AM.png" alt="MediRAG Answer" width="800"/>
+  <img src="assets/images/3.png" alt="MediRAG Answer" width="800"/>
   <p><em>MediRAG providing a detailed answer with sources from the medical literature</em></p>
 </div>
 
