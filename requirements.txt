@@ -1,7 +1,17 @@
-ctransformers==0.2.5 # to load the quantized models
-sentence-transformers==2.2.2 # to load the sentence transformers models (for the embeddings)
-pinecone # to load the pinecone client (for the vector database)
-langchain==0.0.225 # to load the langchain client (for the chatbot)
-flask==3.0.2 # to load the flask client (for the web app)
-ipywidgets>=7.6.0 # to fix the IProgress warning in Jupyter notebooks
+langchain>=0.1.0
+langchain-ollama>=0.2.3
+langchain-core>=0.3.33
+langchain-community>=0.0.16
+pinecone-client>=3.0.0
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
+tqdm>=4.66.1
+streamlit>=1.43.0
+ollama>=0.4.7
+pydantic>=2.5.2
+numpy>=1.24.0
+torch>=2.0.0
+transformers>=4.35.0
+pypdf>=3.15.1
+colorama>=0.4.6
 
