@@ -1,4 +1,4 @@
-# End-to-End Medical Chatbot: Local RAG System
+# MediRAG: Local RAG System : Get Accurate medical answers from your trsuted documents locally
 
 Created by [supermax01](https://github.com/supermax01)
 
